@@ -31,5 +31,5 @@ console.log(prezzoFinale)
 
 const priceElement = document.getElementById('prezzo')
 console.log(priceElement)
-priceElement.innerHTML = prezzoFinale 
+priceElement.innerHTML = prezzoFinale + '&#8364'
 
